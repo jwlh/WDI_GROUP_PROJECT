@@ -75,7 +75,7 @@
     "newrelic": "^2.5.0",
     "request-promise": "^4.2.2",
     "supertest": "^3.0.0",
-    "validator": "^9.1.1"
+    "validator": "^13.6.0"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
